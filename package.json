@@ -1,0 +1,23 @@
+{
+  "name": "node_image_upload",
+  "version": "1.0.0",
+  "description": "From Manuel Kiessling's Node Beginner Book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonkwong11/node_image_upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonkwong11/node_image_upload/issues"
+  },
+  "homepage": "https://github.com/jasonkwong11/node_image_upload#readme",
+  "dependencies": {
+    "formidable": "^1.1.1"
+  }
+}
